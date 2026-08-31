@@ -1,0 +1,92 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* Class-based dark mode — html.dark pe dark: utilities apply hongi */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* ====== CUSTOM SCROLLBAR ====== */
+/* For Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #4f46e5 #e2e8f0;
+}
+
+/* For Chrome, Edge, Safari */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #e2e8f0;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #4f46e5, #7c3aed);
+  border-radius: 10px;
+  border: 2px solid #e2e8f0;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #4338ca, #6d28d9);
+}
+
+/* Dark mode scrollbar */
+.dark ::-webkit-scrollbar-track {
+  background: #1e293b;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #6366f1, #8b5cf6);
+  border-color: #1e293b;
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #4f46e5, #7c3aed);
+}
+
+/* Blog content image styling */
+.prose img {
+  border-radius: 12px;
+  max-width: 100%;
+  height: auto;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.prose img:hover {
+  transform: scale(1.01);
+  transition: transform 0.3s ease;
+}
+
+/* Video container */
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+  overflow: hidden;
+  border-radius: 12px;
+  margin: 1.5rem 0;
+}
+
+.video-container iframe,
+.video-container video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+}
+
+/* Featured image */
+.featured-image {
+  border-radius: 16px;
+  overflow: hidden;
+  margin-bottom: 1.5rem;
+  background: linear-gradient(135deg, #e0e7ff, #ede9fe);
+}
+
+.dark .featured-image {
+  background: linear-gradient(135deg, #1e293b, #312e81);
+}

@@ -1,0 +1,121 @@
+{
+  "brand": { "name": "EduEpic", "tagline": "Öğren. Geliş. Mükemmelleş." },
+  "nav": {
+    "home": "Ana Sayfa",
+    "blog": "Blog",
+    "categories": "Kategoriler",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "faq": "SSS",
+    "search": "Ara",
+    "adminLogin": "Yönetici Girişi"
+  },
+  "footer": {
+    "description": "EduEpic, teknoloji, eğitim, yaşam tarzı ve daha fazlası hakkında yüksek kaliteli makaleleri kendi dilinizde sunan çok dilli bir bilgi platformudur.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "categories": "Kategoriler",
+    "followUs": "Bizi Takip Edin",
+    "newsletter": "Bülten",
+    "newsletterDesc": "En son makaleleri e-posta kutunuza almak için abone olun.",
+    "newsletterPlaceholder": "E-postanızı girin",
+    "subscribe": "Abone Ol",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Hizmet Şartları",
+    "rights": "Tüm hakları saklıdır."
+  },
+  "hero": {
+    "title": "Sınır Tanımayan Bilgiyi Keşfedin",
+    "subtitle": "Teknoloji, eğitim, yaşam tarzı ve daha fazlasını kapsayan, 9 dile çevrilmiş uzman makaleleri keşfedin.",
+    "cta": "Okumaya Başla",
+    "searchPlaceholder": "Makale, konu, kategori ara..."
+  },
+  "buttons": {
+    "readMore": "Devamını Oku",
+    "loadMore": "Daha Fazla Yükle",
+    "submit": "Gönder",
+    "send": "Mesaj Gönder",
+    "login": "Giriş Yap",
+    "logout": "Çıkış Yap",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "add": "Yeni Ekle",
+    "viewAll": "Tümünü Gör",
+    "backToHome": "Ana Sayfaya Dön",
+    "share": "Paylaş"
+  },
+  "search": {
+    "title": "Arama Sonuçları",
+    "placeholder": "Aramak için yazın...",
+    "noResults": "Aramanızla eşleşen makale bulunamadı.",
+    "resultsFor": "Arama sonuçları"
+  },
+  "forms": {
+    "name": "Ad Soyad",
+    "email": "E-posta Adresi",
+    "subject": "Konu",
+    "message": "Mesaj",
+    "password": "Şifre",
+    "confirmPassword": "Şifreyi Onayla"
+  },
+  "errors": {
+    "notFound": "404 - Sayfa Bulunamadı",
+    "notFoundDesc": "Aradığınız sayfa mevcut değil veya taşınmış.",
+    "somethingWrong": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin.",
+    "requiredField": "Bu alan zorunludur",
+    "invalidEmail": "Lütfen geçerli bir e-posta adresi girin",
+    "invalidCredentials": "Geçersiz e-posta veya şifre"
+  },
+  "dashboard": {
+    "title": "Yönetici Paneli",
+    "welcome": "Tekrar hoş geldiniz",
+    "totalBlogs": "Toplam Blog",
+    "totalCategories": "Toplam Kategori",
+    "totalUsers": "Toplam Kullanıcı",
+    "totalViews": "Toplam Görüntülenme",
+    "recentBlogs": "Son Bloglar",
+    "menu": "Menü",
+    "blogs": "Bloglar",
+    "categories": "Kategoriler",
+    "users": "Kullanıcılar",
+    "settings": "Ayarlar",
+    "dashboard": "Panel"
+  },
+  "categories": {
+    "technology": "Teknoloji",
+    "lifestyle": "Yaşam Tarzı",
+    "travel": "Seyahat",
+    "health": "Sağlık",
+    "business": "İş",
+    "education": "Eğitim"
+  },
+  "pages": {
+    "about": "Hakkımızda",
+    "contact": "Bize Ulaşın",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Şartlar ve Koşullar",
+    "faq": "Sıkça Sorulan Sorular"
+  },
+  "misc": {
+    "readingTime": "Okuma süresi",
+    "minRead": "dk okuma",
+    "publishedOn": "Yayınlanma tarihi",
+    "author": "Yazar",
+    "relatedArticles": "İlgili Makaleler",
+    "tableOfContents": "İçindekiler",
+    "shareArticle": "Bu makaleyi paylaş",
+    "tags": "Etiketler",
+    "comments": "Yorumlar",
+    "loading": "Yükleniyor...",
+    "language": "Dil",
+    "darkMode": "Karanlık Mod",
+    "lightMode": "Aydınlık Mod",
+    "home": "Ana Sayfa",
+    "featured": "Öne Çıkan",
+    "latestArticles": "Son Makaleler",
+    "browseCategories": "Kategorilere Göz At",
+    "trendingNow": "Şu An Trend",
+    "translationNotice": "Bu makale henüz dilinize çevrilmedi. İngilizce sürüm gösteriliyor."
+  }
+}

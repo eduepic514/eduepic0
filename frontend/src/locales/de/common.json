@@ -1,0 +1,121 @@
+{
+  "brand": { "name": "EduEpic", "tagline": "Lernen. Wachsen. Glänzen." },
+  "nav": {
+    "home": "Startseite",
+    "blog": "Blog",
+    "categories": "Kategorien",
+    "about": "Über Uns",
+    "contact": "Kontakt",
+    "faq": "FAQ",
+    "search": "Suche",
+    "adminLogin": "Admin-Login"
+  },
+  "footer": {
+    "description": "EduEpic ist eine mehrsprachige Wissensplattform, die hochwertige Artikel zu Technologie, Bildung, Lifestyle und mehr in Ihrer eigenen Sprache bietet.",
+    "quickLinks": "Schnellzugriff",
+    "categories": "Kategorien",
+    "followUs": "Folgen Sie Uns",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Abonnieren Sie, um die neuesten Artikel in Ihr Postfach zu erhalten.",
+    "newsletterPlaceholder": "E-Mail-Adresse eingeben",
+    "subscribe": "Abonnieren",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "hero": {
+    "title": "Entdecken Sie Wissen Ohne Grenzen",
+    "subtitle": "Entdecken Sie fachkundig verfasste Artikel, übersetzt in 9 Sprachen, zu Technologie, Bildung, Lifestyle und mehr.",
+    "cta": "Mit Lesen Beginnen",
+    "searchPlaceholder": "Artikel, Themen, Kategorien suchen..."
+  },
+  "buttons": {
+    "readMore": "Weiterlesen",
+    "loadMore": "Mehr Laden",
+    "submit": "Absenden",
+    "send": "Nachricht Senden",
+    "login": "Anmelden",
+    "logout": "Abmelden",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "add": "Neu Hinzufügen",
+    "viewAll": "Alle Anzeigen",
+    "backToHome": "Zurück zur Startseite",
+    "share": "Teilen"
+  },
+  "search": {
+    "title": "Suchergebnisse",
+    "placeholder": "Zum Suchen tippen...",
+    "noResults": "Keine Artikel gefunden, die Ihrer Suche entsprechen.",
+    "resultsFor": "Suchergebnisse für"
+  },
+  "forms": {
+    "name": "Vollständiger Name",
+    "email": "E-Mail-Adresse",
+    "subject": "Betreff",
+    "message": "Nachricht",
+    "password": "Passwort",
+    "confirmPassword": "Passwort Bestätigen"
+  },
+  "errors": {
+    "notFound": "404 - Seite Nicht Gefunden",
+    "notFoundDesc": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
+    "somethingWrong": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
+    "requiredField": "Dieses Feld ist erforderlich",
+    "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "invalidCredentials": "Ungültige E-Mail oder Passwort"
+  },
+  "dashboard": {
+    "title": "Admin-Dashboard",
+    "welcome": "Willkommen zurück",
+    "totalBlogs": "Blogs Gesamt",
+    "totalCategories": "Kategorien Gesamt",
+    "totalUsers": "Benutzer Gesamt",
+    "totalViews": "Aufrufe Gesamt",
+    "recentBlogs": "Neueste Blogs",
+    "menu": "Menü",
+    "blogs": "Blogs",
+    "categories": "Kategorien",
+    "users": "Benutzer",
+    "settings": "Einstellungen",
+    "dashboard": "Dashboard"
+  },
+  "categories": {
+    "technology": "Technologie",
+    "lifestyle": "Lifestyle",
+    "travel": "Reisen",
+    "health": "Gesundheit",
+    "business": "Wirtschaft",
+    "education": "Bildung"
+  },
+  "pages": {
+    "about": "Über Uns",
+    "contact": "Kontaktieren Sie Uns",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Allgemeine Geschäftsbedingungen",
+    "faq": "Häufig Gestellte Fragen"
+  },
+  "misc": {
+    "readingTime": "Lesezeit",
+    "minRead": "Min. Lesezeit",
+    "publishedOn": "Veröffentlicht am",
+    "author": "Autor",
+    "relatedArticles": "Verwandte Artikel",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "shareArticle": "Diesen Artikel teilen",
+    "tags": "Tags",
+    "comments": "Kommentare",
+    "loading": "Wird geladen...",
+    "language": "Sprache",
+    "darkMode": "Dunkelmodus",
+    "lightMode": "Hellmodus",
+    "home": "Startseite",
+    "featured": "Empfohlen",
+    "latestArticles": "Neueste Artikel",
+    "browseCategories": "Kategorien Durchsuchen",
+    "trendingNow": "Aktuell im Trend",
+    "translationNotice": "Dieser Artikel ist noch nicht in Ihre Sprache übersetzt. Englische Version wird angezeigt."
+  }
+}

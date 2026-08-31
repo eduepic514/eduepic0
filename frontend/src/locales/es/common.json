@@ -1,0 +1,121 @@
+{
+  "brand": { "name": "EduEpic", "tagline": "Aprende. Crece. Destaca." },
+  "nav": {
+    "home": "Inicio",
+    "blog": "Blog",
+    "categories": "Categorías",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "faq": "Preguntas Frecuentes",
+    "search": "Buscar",
+    "adminLogin": "Acceso Admin"
+  },
+  "footer": {
+    "description": "EduEpic es una plataforma de conocimiento multilingüe que ofrece artículos de alta calidad sobre tecnología, educación, estilo de vida y más, en tu propio idioma.",
+    "quickLinks": "Enlaces Rápidos",
+    "categories": "Categorías",
+    "followUs": "Síguenos",
+    "newsletter": "Boletín",
+    "newsletterDesc": "Suscríbete para recibir los últimos artículos en tu correo.",
+    "newsletterPlaceholder": "Ingresa tu correo electrónico",
+    "subscribe": "Suscribirse",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "rights": "Todos los derechos reservados."
+  },
+  "hero": {
+    "title": "Descubre el Conocimiento Sin Fronteras",
+    "subtitle": "Explora artículos escritos por expertos, traducidos a 9 idiomas, sobre tecnología, educación, estilo de vida y más.",
+    "cta": "Empezar a Leer",
+    "searchPlaceholder": "Buscar artículos, temas, categorías..."
+  },
+  "buttons": {
+    "readMore": "Leer Más",
+    "loadMore": "Cargar Más",
+    "submit": "Enviar",
+    "send": "Enviar Mensaje",
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "add": "Agregar Nuevo",
+    "viewAll": "Ver Todo",
+    "backToHome": "Volver al Inicio",
+    "share": "Compartir"
+  },
+  "search": {
+    "title": "Resultados de Búsqueda",
+    "placeholder": "Escribe para buscar...",
+    "noResults": "No se encontraron artículos que coincidan con tu búsqueda.",
+    "resultsFor": "Resultados de búsqueda para"
+  },
+  "forms": {
+    "name": "Nombre Completo",
+    "email": "Correo Electrónico",
+    "subject": "Asunto",
+    "message": "Mensaje",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar Contraseña"
+  },
+  "errors": {
+    "notFound": "404 - Página No Encontrada",
+    "notFoundDesc": "La página que buscas no existe o ha sido movida.",
+    "somethingWrong": "Algo salió mal. Por favor, inténtalo de nuevo.",
+    "requiredField": "Este campo es obligatorio",
+    "invalidEmail": "Por favor ingresa un correo electrónico válido",
+    "invalidCredentials": "Correo o contraseña inválidos"
+  },
+  "dashboard": {
+    "title": "Panel de Administración",
+    "welcome": "Bienvenido de nuevo",
+    "totalBlogs": "Total de Blogs",
+    "totalCategories": "Total de Categorías",
+    "totalUsers": "Total de Usuarios",
+    "totalViews": "Total de Vistas",
+    "recentBlogs": "Blogs Recientes",
+    "menu": "Menú",
+    "blogs": "Blogs",
+    "categories": "Categorías",
+    "users": "Usuarios",
+    "settings": "Configuración",
+    "dashboard": "Panel"
+  },
+  "categories": {
+    "technology": "Tecnología",
+    "lifestyle": "Estilo de Vida",
+    "travel": "Viajes",
+    "health": "Salud",
+    "business": "Negocios",
+    "education": "Educación"
+  },
+  "pages": {
+    "about": "Sobre Nosotros",
+    "contact": "Contáctanos",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos y Condiciones",
+    "faq": "Preguntas Frecuentes"
+  },
+  "misc": {
+    "readingTime": "Tiempo de lectura",
+    "minRead": "min de lectura",
+    "publishedOn": "Publicado el",
+    "author": "Autor",
+    "relatedArticles": "Artículos Relacionados",
+    "tableOfContents": "Tabla de Contenidos",
+    "shareArticle": "Comparte este artículo",
+    "tags": "Etiquetas",
+    "comments": "Comentarios",
+    "loading": "Cargando...",
+    "language": "Idioma",
+    "darkMode": "Modo Oscuro",
+    "lightMode": "Modo Claro",
+    "home": "Inicio",
+    "featured": "Destacado",
+    "latestArticles": "Últimos Artículos",
+    "browseCategories": "Explorar Categorías",
+    "trendingNow": "Tendencia Ahora",
+    "translationNotice": "Este artículo aún no está traducido a tu idioma. Mostrando la versión en inglés."
+  }
+}

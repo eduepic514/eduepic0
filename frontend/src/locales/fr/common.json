@@ -1,0 +1,121 @@
+{
+  "brand": { "name": "EduEpic", "tagline": "Apprendre. Grandir. Exceller." },
+  "nav": {
+    "home": "Accueil",
+    "blog": "Blog",
+    "categories": "Catégories",
+    "about": "À propos",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "search": "Rechercher",
+    "adminLogin": "Connexion Admin"
+  },
+  "footer": {
+    "description": "EduEpic est une plateforme de connaissances multilingue proposant des articles de haute qualité sur la technologie, l'éducation, le style de vie et plus encore, dans votre propre langue.",
+    "quickLinks": "Liens Rapides",
+    "categories": "Catégories",
+    "followUs": "Suivez-nous",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Abonnez-vous pour recevoir les derniers articles dans votre boîte mail.",
+    "newsletterPlaceholder": "Entrez votre e-mail",
+    "subscribe": "S'abonner",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "rights": "Tous droits réservés."
+  },
+  "hero": {
+    "title": "Découvrez le Savoir Sans Frontières",
+    "subtitle": "Explorez des articles rédigés par des experts, traduits en 9 langues, sur la technologie, l'éducation, le style de vie et plus.",
+    "cta": "Commencer à Lire",
+    "searchPlaceholder": "Rechercher des articles, sujets, catégories..."
+  },
+  "buttons": {
+    "readMore": "Lire Plus",
+    "loadMore": "Charger Plus",
+    "submit": "Soumettre",
+    "send": "Envoyer le Message",
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "add": "Ajouter",
+    "viewAll": "Voir Tout",
+    "backToHome": "Retour à l'Accueil",
+    "share": "Partager"
+  },
+  "search": {
+    "title": "Résultats de Recherche",
+    "placeholder": "Tapez pour rechercher...",
+    "noResults": "Aucun article trouvé correspondant à votre recherche.",
+    "resultsFor": "Résultats de recherche pour"
+  },
+  "forms": {
+    "name": "Nom Complet",
+    "email": "Adresse E-mail",
+    "subject": "Sujet",
+    "message": "Message",
+    "password": "Mot de Passe",
+    "confirmPassword": "Confirmer le Mot de Passe"
+  },
+  "errors": {
+    "notFound": "404 - Page Non Trouvée",
+    "notFoundDesc": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "somethingWrong": "Une erreur s'est produite. Veuillez réessayer.",
+    "requiredField": "Ce champ est requis",
+    "invalidEmail": "Veuillez entrer une adresse e-mail valide",
+    "invalidCredentials": "E-mail ou mot de passe invalide"
+  },
+  "dashboard": {
+    "title": "Tableau de Bord Admin",
+    "welcome": "Content de vous revoir",
+    "totalBlogs": "Total des Articles",
+    "totalCategories": "Total des Catégories",
+    "totalUsers": "Total des Utilisateurs",
+    "totalViews": "Total des Vues",
+    "recentBlogs": "Articles Récents",
+    "menu": "Menu",
+    "blogs": "Articles",
+    "categories": "Catégories",
+    "users": "Utilisateurs",
+    "settings": "Paramètres",
+    "dashboard": "Tableau de Bord"
+  },
+  "categories": {
+    "technology": "Technologie",
+    "lifestyle": "Style de Vie",
+    "travel": "Voyage",
+    "health": "Santé",
+    "business": "Affaires",
+    "education": "Éducation"
+  },
+  "pages": {
+    "about": "À Propos de Nous",
+    "contact": "Contactez-nous",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Termes et Conditions",
+    "faq": "Questions Fréquentes"
+  },
+  "misc": {
+    "readingTime": "Temps de lecture",
+    "minRead": "min de lecture",
+    "publishedOn": "Publié le",
+    "author": "Auteur",
+    "relatedArticles": "Articles Connexes",
+    "tableOfContents": "Table des Matières",
+    "shareArticle": "Partager cet article",
+    "tags": "Tags",
+    "comments": "Commentaires",
+    "loading": "Chargement...",
+    "language": "Langue",
+    "darkMode": "Mode Sombre",
+    "lightMode": "Mode Clair",
+    "home": "Accueil",
+    "featured": "En Vedette",
+    "latestArticles": "Derniers Articles",
+    "browseCategories": "Parcourir les Catégories",
+    "trendingNow": "Tendance Actuelle",
+    "translationNotice": "Cet article n'est pas encore traduit dans votre langue. Affichage de la version anglaise."
+  }
+}

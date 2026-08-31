@@ -1,0 +1,124 @@
+{
+  "brand": {
+    "name": "EduEpic",
+    "tagline": "Learn. Grow. Excel."
+  },
+  "nav": {
+    "home": "Home",
+    "blog": "Blog",
+    "categories": "Categories",
+    "about": "About",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "search": "Search",
+    "adminLogin": "Admin Login"
+  },
+  "footer": {
+    "description": "EduEpic is a multilingual knowledge platform delivering high-quality articles on technology, education, lifestyle and more — in your own language.",
+    "quickLinks": "Quick Links",
+    "categories": "Categories",
+    "followUs": "Follow Us",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Subscribe to get the latest articles delivered to your inbox.",
+    "newsletterPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved."
+  },
+  "hero": {
+    "title": "Discover Knowledge Without Borders",
+    "subtitle": "Explore expertly written articles translated into 9 languages, covering technology, education, lifestyle and more.",
+    "cta": "Start Reading",
+    "searchPlaceholder": "Search articles, topics, categories..."
+  },
+  "buttons": {
+    "readMore": "Read More",
+    "loadMore": "Load More",
+    "submit": "Submit",
+    "send": "Send Message",
+    "login": "Login",
+    "logout": "Logout",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "add": "Add New",
+    "viewAll": "View All",
+    "backToHome": "Back to Home",
+    "share": "Share"
+  },
+  "search": {
+    "title": "Search Results",
+    "placeholder": "Type to search...",
+    "noResults": "No articles found matching your search.",
+    "resultsFor": "Search results for"
+  },
+  "forms": {
+    "name": "Full Name",
+    "email": "Email Address",
+    "subject": "Subject",
+    "message": "Message",
+    "password": "Password",
+    "confirmPassword": "Confirm Password"
+  },
+  "errors": {
+    "notFound": "404 - Page Not Found",
+    "notFoundDesc": "The page you are looking for does not exist or has been moved.",
+    "somethingWrong": "Something went wrong. Please try again.",
+    "requiredField": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "invalidCredentials": "Invalid email or password"
+  },
+  "dashboard": {
+    "title": "Admin Dashboard",
+    "welcome": "Welcome back",
+    "totalBlogs": "Total Blogs",
+    "totalCategories": "Total Categories",
+    "totalUsers": "Total Users",
+    "totalViews": "Total Views",
+    "recentBlogs": "Recent Blogs",
+    "menu": "Menu",
+    "blogs": "Blogs",
+    "categories": "Categories",
+    "users": "Users",
+    "settings": "Settings",
+    "dashboard": "Dashboard"
+  },
+  "categories": {
+    "technology": "Technology",
+    "lifestyle": "Lifestyle",
+    "travel": "Travel",
+    "health": "Health",
+    "business": "Business",
+    "education": "Education"
+  },
+  "pages": {
+    "about": "About Us",
+    "contact": "Contact Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "faq": "Frequently Asked Questions"
+  },
+  "misc": {
+    "readingTime": "Reading time",
+    "minRead": "min read",
+    "publishedOn": "Published on",
+    "author": "Author",
+    "relatedArticles": "Related Articles",
+    "tableOfContents": "Table of Contents",
+    "shareArticle": "Share this article",
+    "tags": "Tags",
+    "comments": "Comments",
+    "loading": "Loading...",
+    "language": "Language",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "home": "Home",
+    "featured": "Featured",
+    "latestArticles": "Latest Articles",
+    "browseCategories": "Browse Categories",
+    "trendingNow": "Trending Now",
+    "translationNotice": "This article is not yet translated into your language. Showing English version."
+  }
+}

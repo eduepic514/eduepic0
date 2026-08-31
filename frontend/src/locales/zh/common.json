@@ -1,0 +1,121 @@
+{
+  "brand": { "name": "EduEpic 学识", "tagline": "学习。成长。卓越。" },
+  "nav": {
+    "home": "首页",
+    "blog": "博客",
+    "categories": "分类",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "faq": "常见问题",
+    "search": "搜索",
+    "adminLogin": "管理员登录"
+  },
+  "footer": {
+    "description": "EduEpic 是一个多语言知识平台，用您自己的语言提供有关技术、教育、生活方式等方面的高质量文章。",
+    "quickLinks": "快速链接",
+    "categories": "分类",
+    "followUs": "关注我们",
+    "newsletter": "订阅通讯",
+    "newsletterDesc": "订阅以将最新文章发送到您的邮箱。",
+    "newsletterPlaceholder": "输入您的电子邮件",
+    "subscribe": "订阅",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "rights": "版权所有。"
+  },
+  "hero": {
+    "title": "探索无国界的知识",
+    "subtitle": "探索由专家撰写、翻译成9种语言的文章，涵盖技术、教育、生活方式等。",
+    "cta": "开始阅读",
+    "searchPlaceholder": "搜索文章、主题、分类..."
+  },
+  "buttons": {
+    "readMore": "阅读更多",
+    "loadMore": "加载更多",
+    "submit": "提交",
+    "send": "发送消息",
+    "login": "登录",
+    "logout": "退出登录",
+    "save": "保存",
+    "cancel": "取消",
+    "edit": "编辑",
+    "delete": "删除",
+    "add": "新增",
+    "viewAll": "查看全部",
+    "backToHome": "返回首页",
+    "share": "分享"
+  },
+  "search": {
+    "title": "搜索结果",
+    "placeholder": "输入以搜索...",
+    "noResults": "未找到与您的搜索匹配的文章。",
+    "resultsFor": "搜索结果："
+  },
+  "forms": {
+    "name": "姓名",
+    "email": "电子邮件地址",
+    "subject": "主题",
+    "message": "留言",
+    "password": "密码",
+    "confirmPassword": "确认密码"
+  },
+  "errors": {
+    "notFound": "404 - 页面未找到",
+    "notFoundDesc": "您要查找的页面不存在或已被移动。",
+    "somethingWrong": "出现错误，请重试。",
+    "requiredField": "此字段为必填项",
+    "invalidEmail": "请输入有效的电子邮件地址",
+    "invalidCredentials": "电子邮件或密码无效"
+  },
+  "dashboard": {
+    "title": "管理后台",
+    "welcome": "欢迎回来",
+    "totalBlogs": "文章总数",
+    "totalCategories": "分类总数",
+    "totalUsers": "用户总数",
+    "totalViews": "浏览总数",
+    "recentBlogs": "最新文章",
+    "menu": "菜单",
+    "blogs": "文章",
+    "categories": "分类",
+    "users": "用户",
+    "settings": "设置",
+    "dashboard": "仪表盘"
+  },
+  "categories": {
+    "technology": "科技",
+    "lifestyle": "生活方式",
+    "travel": "旅行",
+    "health": "健康",
+    "business": "商业",
+    "education": "教育"
+  },
+  "pages": {
+    "about": "关于我们",
+    "contact": "联系我们",
+    "privacy": "隐私政策",
+    "terms": "条款与条件",
+    "faq": "常见问题"
+  },
+  "misc": {
+    "readingTime": "阅读时间",
+    "minRead": "分钟阅读",
+    "publishedOn": "发布于",
+    "author": "作者",
+    "relatedArticles": "相关文章",
+    "tableOfContents": "目录",
+    "shareArticle": "分享此文章",
+    "tags": "标签",
+    "comments": "评论",
+    "loading": "加载中...",
+    "language": "语言",
+    "darkMode": "深色模式",
+    "lightMode": "浅色模式",
+    "home": "首页",
+    "featured": "精选",
+    "latestArticles": "最新文章",
+    "browseCategories": "浏览分类",
+    "trendingNow": "当前热门",
+    "translationNotice": "此文章尚未翻译成您的语言，正在显示英文版本。"
+  }
+}
