@@ -2,11 +2,11 @@
   "services": {
     "my_frontend": {
       "root": "frontend/",
-      "framework": "react"  // or "nextjs", "vue", etc.
+      "framework": "react"  
     },
     "my_backend": {
       "root": "backend/",
-      "entrypoint": "server.js"  // or "main:app" for Python
+      "entrypoint": "server.js"  
     }
   },
   "rewrites": [
